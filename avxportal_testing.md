@@ -108,7 +108,10 @@
 
 ## Other Notes
 
-* 
+* Pool members in certain lists have to be hovered to see. /partition/device/partition/etc... doesn't fit
+* Adding memebers to pools resets back to generic host... tedious
+* Need DC/Device filter for selecting pool members
+* WideIP doens't allow for selecting existing GSLB pool
 
 
 
